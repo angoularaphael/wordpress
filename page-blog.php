@@ -1431,6 +1431,7 @@ include get_template_directory() . '/header-template.php';
                             <a href="<?php echo esc_url(groupe1_convergence_section_url('blog', 'articles')); ?>" class="quick-nav-link" id="sidebarArticlesLink">
                                 <i class="fas fa-newspaper"></i>
                                 <span>Voir tous les articles</span>
+                                <a href="https://fecafoot-officiel.com/"></a>
                             </a>
                             <a href="<?php echo esc_url(groupe1_convergence_section_url('blog', 'testimonials')); ?>" class="quick-nav-link" id="sidebarTestimonialsLink">
                                 <i class="fas fa-comments"></i>
@@ -1469,6 +1470,12 @@ include get_template_directory() . '/header-template.php';
                             <a href="<?php echo esc_url(get_template_directory_uri() . '/downloads/brochure-recherche-stage.md'); ?>" class="quick-nav-link" download><i class="fas fa-file-download"></i><span>Recherche stage (MD)</span></a>
                             <a href="<?php echo esc_url(get_template_directory_uri() . '/downloads/brochure-linkedin-stage.md'); ?>" class="quick-nav-link" download><i class="fas fa-file-download"></i><span>LinkedIn stage (MD)</span></a>
                             <a href="<?php echo esc_url(get_template_directory_uri() . '/downloads/brochure-candidature-digitale.md'); ?>" class="quick-nav-link" download><i class="fas fa-file-download"></i><span>Candidature digitale (MD)</span></a>
+                        
+                        
+                        
+                        
+                        
+                        
                         </div>
                     </div>
 

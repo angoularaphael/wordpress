@@ -1655,6 +1655,38 @@ articlesData = {
             
             <p>Bon courage dans votre apprentissage, et rappelez-vous : chaque expert était un jour débutant. ✨</p>
         `
+    },
+    5: {
+        id: 5,
+        title: "Une journée d'immersion en office de tourisme : mon retour",
+        author: "Émilie Rousseau",
+        authorRole: "Étudiante en Tourisme",
+        date: "3 avril 2026",
+        category: "Retour d'expérience",
+        icon: "fas fa-plane-departure",
+        color: "#e0f7fa",
+        image: "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&q=80",
+        excerpt: "Compte rendu d'une journée sur le terrain avec l'équipe d'un office de tourisme : accueil du public, événementiel local et ce que la formation m'a permis de comprendre tout de suite.",
+        content: `
+            <h2>Pourquoi cette immersion comptait pour moi</h2>
+            <p>Dans le cadre de la formation Tourisme à Convergence, nous devions passer une journée complète dans une structure réelle. J'ai choisi un office de tourisme de taille moyenne en région : l'objectif était de voir concrètement comment se découpent une journée type, entre accueil, digital et partenariats locaux.</p>
+
+            <h3>Le matin : l'accueil, bien plus qu'un comptoir</h3>
+            <p>J'ai commencé par l'accueil physique. Ce qui m'a frappée, c'est le rythme : questions sur les itinéraires, billets combinés, accessibilité, météo, et en parallèle le téléphone et les messages sur les réseaux. Les conseillers jonglent entre cartographie papier, outils en ligne et connaissance fine du territoire. Les cours sur la qualité d'accueil et la gestion de la relation client m'ont aidée à repérer les bonnes pratiques : reformulation des demandes, priorisation quand plusieurs visiteurs attendent, et surtout le ton calme même en période de forte affluence.</p>
+
+            <h3>L'après-midi : événementiel et acteurs locaux</h3>
+            <p>L'après-midi était consacré à la préparation d'une mini-journée « patrimoine » pour le week-end suivant : coordination avec un guide, réservation de salles, communication sur les canaux de l'office et vérification des stocks de flyers. J'ai pu assister à un point rapide avec des hébergeurs et un restaurateur partenaire. On y voit tout le travail invisible derrière une offre touristique qui semble « évidente » quand on est visiteur.</p>
+
+            <h3>Ce que la formation m'a fait gagner ce jour-là</h3>
+            <ul>
+                <li><strong>Vocabulaire pro</strong> : j'ai reconnu les notions vues en cours (offre, fréquentation, saisonnalité, mise en valeur du territoire).</li>
+                <li><strong>Outils numériques</strong> : mise à jour du site, encarts sur les réseaux — je comprenais mieux la chaîne entre contenu, message et public cible.</li>
+                <li><strong>Posture</strong> : observer sans gêner, poser des questions au bon moment, remercier l'équipe — la pédagogie Convergence insiste sur ce professionnalisme, et ça se voit sur le terrain.</li>
+            </ul>
+
+            <h3>En résumé</h3>
+            <p>Cette immersion a confirmé mon envie de travailler dans l'animation et la promotion des destinations. Si vous hésitez encore sur la filière Tourisme, je vous encourage à saisir chaque mise en situation proposée : c'est là que les cours prennent tout leur sens.</p>
+        `
     }
 };
 
