@@ -1,0 +1,59 @@
+ANGOULA ONAMBELE RAPHAEL (Germain Raphael)
+
+Étudiant en Bachelor 2 Développement Web
+
+CONTACT
++33 7 62 64 14 73
+germainraphaelangoulaonambele@gmail.com
+19 Avenue Winston Churchill 31100 Toulouse
+
+COMPÉTENCES
+Langages de programmation : Python, C, C#, C++, Java, JavaScript, Rust, Go
+Développement Web
+Front-end : HTML, CSS, Bootstrap
+Back-end : PHP, Node.js
+Bases de données : MySQL, SQLite3, PostgreSQL, MongoDB
+Frameworks : React, Angular, PyTorch, Pandas/NumPy
+
+Outils & Environnement : VS Code, Excel, VS Community, Git, Docker, GitHub, Windows, Linux
+
+Soft skills : Travail en équipe, Résolution de problèmes, Autonomie, Adaptabilité, Communication, Rigueur, Gestion du temps, Curiosité
+
+LANGUES
+Français : Maternelle
+Anglais : B2
+
+CENTRES D'INTÉRÊT
+Programmation, Jeux Vidéo, Nouvelles Technologies, Tennis, Football, Musique, Automatisation et IA
+
+EXPÉRIENCE PROFESSIONNELLE
+Assistant Développeur Stagiaire – Mairie de Douala 4e, Douala, Cameroun | Juillet-Août 2025
+• Configuration et intégration d'un environnement IA pour optimisation logiciel gestion véhicules
+• Participation à des tests et mises à jour
+• Collaboration gestion bases de données et automatisation rapports
+
+Développeur Web Stagiaire – QTA TECH SARL, Douala, Cameroun | Juin-Août 2024
+• Développement sites web avec IA (HTML, CSS, JavaScript)
+• Intégration d'API pour fonctionnalités dynamiques
+• Attention à la sécurité et efficacité du code
+
+Fondateur et Développeur – KGTECH / KERM HOST, Douala, Cameroun | Décembre 2023 - Présent
+• Création de bots d'automatisation WhatsApp en Node.js
+• Optimisation tâches administratives
+• Fiabilité 99% sur +100 interactions quotidiennes
+Références : https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45
+https://kermhost.onrender.com
+
+PROJETS
+• Application VBA de Gestion de Stock
+• Site Web d'Achat de bot Kerm-MD
+• Site de gestion d'emploi du temps pour Fareno University (V1 et V2)
+
+FORMATIONS & CERTIFICATIONS
+Bachelor 2 Informatique – Keyce Informatique, Toulouse | 2025-2026 (en cours)
+
+Bachelor 1 Informatique – Keyce Informatique, Douala | 2024-2025 (Major)
+
+Certification Python – DevAcademyFree | 2024
+
+Bac Scientifique – Collège Étoile, Douala | 2023-2024 (Assez-Bien)

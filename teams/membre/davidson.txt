@@ -1,0 +1,48 @@
+Davidson Chardin Poutcheu Tchoga
+
+Étudiant en Bachelor 2 Informatique
+
+CONTACT
+chardinpoutcheu@gmail.com
++33 7 53 18 26 08
+
+COMPÉTENCES
+Maîtrise : Python, C, HTML/CSS, JavaScript, MySQL
+En cours / Notions : React.js, PHP, Docker, Angular, Node.js
+Environnement technique : Git, Laragon
+Capacité de synthèse et présentation de solutions techniques
+Collaboration active en environnement de projet
+
+LANGUES
+Français : Courant
+Anglais : Intermédiaire
+
+CENTRES D'INTÉRÊT
+Football • Musique • Théologie
+
+PROJETS
+Chef de projet - Application de gestion de courriers
+Keyce Informatique - Projet Universitaire | Mai 2025
+• Pilotage d'une équipe de 6 développeurs (méthode Agile)
+• Répartition des tâches, gestion du planning et respect des deadlines
+• Développement d'un site web d'une école
+• Modélisation de la base de données (Laragon)
+• Rédaction d'une documentation technique et fonctionnelle de 30 pages
+• Réalisation de la présentation PowerPoint du projet
+
+Développeur Web Junior - Projets Personnels
+• Petite calculatrice en Python
+• Réalisation de sites en local (HTML, CSS, JavaScript, Laragon, MySQL)
+• Réalisation de petits jeux pour enfants 3-9 ans (HTML, JavaScript, CSS, Laragon)
+• Connaissances élémentaires sur Git
+• Initiation sur Docker
+• Maîtrise de React.js - niveau basique
+
+FORMATION
+Bachelor 2 Informatique - Coordinateur de Projet Informatique
+Keyce Informatique Toulouse | 2025-2026
+
+Bachelor 1 Informatique - Tronc Commun
+Keyce Informatique Cameroun | 2024-2025
+
+Baccalauréat Scientifique

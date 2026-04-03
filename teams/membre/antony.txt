@@ -1,0 +1,56 @@
+ANTHONY SITCHEPING
+
+Étudiant Bac+2 Développeur Informatique
+19 ans – Toulouse, France
+anthonysitcheping@gmail.com
++33 7 49 30 42 15
+GitHub : https://github.com/s-senpai7
+
+LANGUES
+Français - courant
+Anglais - intermédiaire
+
+COMPÉTENCES
+Langages : Python, JavaScript, C, PHP, HTML, CSS
+Web & Backend : Node.js, Express, SQL, NoSQL, WordPress
+Data & Automatisation : Python (bases data), Excel VBA
+Outils : GitHub, Docker
+IA : Prompt engineering, bases IA appliquées
+Design & contenus : Canva, CapCut
+
+SOFT SKILLS
+Motivé • Curieux • Rigoureux • Adaptatif • Esprit d'équipe
+
+CENTRES D'INTÉRÊT
+Technologie • IA • Sport • Lecture • Jeux de réflexion
+
+EXPÉRIENCES PROFESSIONNELLES
+ASSISTANT CHARGÉ DE LA CLIENTÈLE (STAGE)
+IDEE Cameroun, Yaoundé, Cameroun | Juin 2023 - Août 2023
+• Développement et maintenance d'une application web de gestion client
+• Suivi des projets clients et gestion des demandes
+• Gestion des transactions et paiements
+• Création de campagnes publicitaires sur les réseaux sociaux
+
+CERTIFICATIONS & PROJETS PERSONNELS (Openclassroom, Capcut, Picsart | Juin 2022 - Présent)
+• Conception d'applications en HTML/CSS/JavaScript/Node.js
+• Certification Maîtrise des bases en HTML/CSS (Openclassroom)
+• Conception d'applications en Python
+• Certification Maîtrise des bases langage Python et pour data (Openclassroom)
+• Création et administration de bases de données SQL/NoSQL
+• Gestion de données et logique métier en C
+• Automatisation et traitement de données (Excel-VBA, OFFICE)
+• Utilisation d'outils pour le travail en équipe et déploiement sécurisé (GitHub, Docker)
+• Conception d'applications et sites web en WordPress
+• Design, conception graphique et montage vidéo (Canva, CapCut)
+• Compétences en prompt engineering pour requêtes LLM
+
+FORMATIONS
+Bachelor 2 Développeur Informatique
+Keyce Informatique, France | en cours
+
+Bachelor 1 Informatique
+Keyce Informatique, Yaoundé, Cameroun | 2024-2025
+
+Baccalauréat Informatique (TI)
+Collège La Retraite, Yaoundé, Cameroun | 2024

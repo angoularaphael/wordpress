@@ -1,0 +1,15 @@
+{
+    "intelephense.environment.includePaths": [
+        "${workspaceFolder}/vendor/php-stubs/wordpress-stubs"
+    ],
+    "intelephense.stubs": [
+        "wordpress",
+        "Core"
+    ],
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedConstants": false,
+    "files.associations": {
+        "footer-template.php": "php",
+        "front-page.php": "php"
+    }
+}

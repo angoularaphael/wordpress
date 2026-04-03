@@ -1,0 +1,10 @@
+{
+    "name": "groupe1/convergence-theme",
+    "description": "Thème WordPress Convergence — stubs IDE uniquement",
+    "require-dev": {
+        "php-stubs/wordpress-stubs": "^6.6"
+    },
+    "config": {
+        "allow-plugins": {}
+    }
+}

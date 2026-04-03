@@ -1,0 +1,327 @@
+/**
+ * Animations ludiques — respect de prefers-reduced-motion côté JS + durées courtes
+ */
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* --- Révélation au scroll (classe ajoutée par JS : .g1-reveal.is-visible) --- */
+.g1-reveal {
+    opacity: 0;
+    transform: translateY(28px);
+    transition:
+        opacity 0.65s cubic-bezier(0.22, 1, 0.36, 1),
+        transform 0.65s cubic-bezier(0.22, 1, 0.36, 1);
+    transition-delay: var(--g1-delay, 0s);
+}
+
+.g1-reveal.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Combinaisons (évite d’écraser translateY / scale entre variantes) */
+.g1-reveal.g1-reveal-left {
+    transform: translate(-24px, 28px);
+}
+
+.g1-reveal.g1-reveal-left.is-visible {
+    transform: translate(0, 0);
+}
+
+.g1-reveal.g1-reveal-right {
+    transform: translate(24px, 28px);
+}
+
+.g1-reveal.g1-reveal-right.is-visible {
+    transform: translate(0, 0);
+}
+
+.g1-reveal.g1-reveal-scale {
+    transform: translateY(28px) scale(0.94);
+}
+
+.g1-reveal.g1-reveal-scale.is-visible {
+    transform: translateY(0) scale(1);
+}
+
+/* --- Micro-interactions boutons & liens --- */
+.btn,
+.btn-secondary,
+.cta-btn,
+.groupe1-cookie-accept,
+.theme-btn,
+.lang-btn,
+button.btn-login {
+    transition:
+        transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1),
+        box-shadow 0.25s ease,
+        background-color 0.25s ease,
+        color 0.25s ease,
+        border-color 0.25s ease;
+}
+
+.btn:active,
+.cta-btn:active,
+.groupe1-cookie-accept:active {
+    transform: translateY(0) scale(0.98);
+}
+
+/* --- Logo --- */
+.logo-link .logo-icon {
+    transition: transform 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.logo-link:hover .logo-icon {
+    transform: rotate(-6deg) scale(1.06);
+}
+
+.logo-text {
+    transition: transform 0.3s ease;
+}
+
+.logo:hover .logo-text {
+    transform: translateX(2px);
+}
+
+/* --- Navigation : soulignement animé --- */
+.site-nav a:not(.active),
+nav:not(.site-nav) ul a:not(.active) {
+    position: relative;
+}
+
+.site-nav a:not(.active)::after,
+header nav ul a:not(.active)::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    width: 0;
+    height: 2px;
+    background: var(--secondary-color, #ff6b35);
+    transition: width 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.site-nav a:not(.active):hover::after,
+header nav ul a:not(.active):hover::after {
+    width: 100%;
+}
+
+/* --- Cartes & tuiles --- */
+.formation-card,
+.event-card,
+.reference-card,
+.campus-card,
+.team-preview-card,
+.testimonial-card,
+.faq-item,
+.contact-card,
+.blog-card,
+.article-card {
+    transition:
+        transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1),
+        box-shadow 0.35s ease,
+        border-color 0.3s ease;
+}
+
+.formation-card:hover,
+.event-card:hover,
+.reference-card:hover,
+.campus-card:hover,
+.team-preview-card:hover,
+.team-card:hover,
+.formation-detail-card:hover,
+.feature-item:hover,
+.program-item:hover,
+.popular-card:hover,
+.sidebar-widget:hover {
+    transform: translateY(-6px);
+}
+
+.team-card,
+.formation-detail-card,
+.feature-item,
+.program-item,
+.popular-card,
+.sidebar-widget {
+    transition:
+        transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1),
+        box-shadow 0.35s ease,
+        border-color 0.3s ease;
+}
+
+.category-btn,
+.filter-btn,
+.formation-nav-btn {
+    transition:
+        transform 0.22s cubic-bezier(0.34, 1.56, 0.64, 1),
+        background-color 0.25s ease,
+        color 0.2s ease,
+        box-shadow 0.25s ease;
+}
+
+.category-btn:hover,
+.filter-btn:hover,
+.formation-nav-btn:hover {
+    transform: translateY(-2px);
+}
+
+/* --- Liens utiles / pied de page --- */
+.footer-links a {
+    transition: color 0.25s ease, transform 0.2s ease;
+}
+
+.footer-links a:hover {
+    transform: translateX(3px);
+}
+
+/* --- Icônes footer & sociaux --- */
+.footer-social a {
+    transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), background-color 0.25s ease;
+}
+
+.footer-social a:hover {
+    transform: translateY(-4px) scale(1.08);
+}
+
+/* --- Chiffres / stats : léger pulse une fois visible --- */
+@keyframes g1-pop {
+    0% {
+        transform: scale(0.85);
+        opacity: 0.5;
+    }
+    70% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.stats-grid .stat-item.is-visible .stat-number {
+    animation: g1-pop 0.55s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+    animation-delay: var(--g1-delay, 0s);
+}
+
+/* --- Gradient hero : léger mouvement --- */
+@keyframes g1-gradient-shift {
+    0%,
+    100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.92;
+    }
+}
+
+.hero-section .hero-background {
+    animation: g1-gradient-shift 8s ease-in-out infinite;
+}
+
+/* --- Icônes dans les boutons --- */
+.btn i,
+.cta-btn i,
+.hero-buttons .btn i {
+    display: inline-block;
+    transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.btn:hover i,
+.hero-buttons .btn:hover i {
+    transform: translateX(3px);
+}
+
+.hero-buttons .btn:first-of-type:hover i {
+    transform: translateY(-2px);
+}
+
+/* --- Fil d’Ariane --- */
+.breadcrumb a {
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.breadcrumb a:hover {
+    transform: translateX(2px);
+}
+
+/* --- Blog : cartes commentaires (style “portfolio”, pas d’opacity 0 au chargement) --- */
+.comments-section .comment {
+    transition:
+        transform 0.5s cubic-bezier(0.22, 1, 0.36, 1),
+        box-shadow 0.45s ease,
+        border-color 0.35s ease;
+}
+
+.comments-section .comment:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.09);
+}
+
+.comments-section .btn-primary {
+    transition:
+        transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1),
+        box-shadow 0.3s ease,
+        letter-spacing 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.comments-section .btn-primary:hover {
+    letter-spacing: 0.02em;
+}
+
+/* --- Formulaires : focus ludique --- */
+input:focus,
+select:focus,
+textarea:focus,
+button:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(78, 205, 196, 0.35);
+    transition: box-shadow 0.2s ease;
+}
+
+/* --- Réduction des animations (accessibilité) --- */
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+
+    .g1-reveal,
+    .g1-reveal.is-visible {
+        opacity: 1 !important;
+        transform: none !important;
+        transition: none !important;
+    }
+
+    .stats-grid .stat-item.is-visible .stat-number {
+        animation: none !important;
+    }
+
+    .hero-section .hero-background {
+        animation: none !important;
+    }
+
+    .logo-link:hover .logo-icon,
+    .formation-card:hover,
+    .event-card:hover,
+    .comments-section .comment:hover {
+        transform: none;
+    }
+
+    .comments-section .btn-primary:hover {
+        letter-spacing: normal;
+    }
+
+    .team-card:hover,
+    .formation-detail-card:hover,
+    .feature-item:hover,
+    .program-item:hover,
+    .popular-card:hover,
+    .sidebar-widget:hover,
+    .category-btn:hover,
+    .filter-btn:hover,
+    .formation-nav-btn:hover,
+    .footer-links a:hover {
+        transform: none;
+    }
+}

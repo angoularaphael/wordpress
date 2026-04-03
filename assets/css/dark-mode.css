@@ -1,0 +1,310 @@
+/**
+ * Thème sombre — s’applique avec html[data-theme="dark"]
+ */
+html[data-theme="dark"] {
+    color-scheme: dark;
+}
+
+html[data-theme="dark"] body {
+    background-color: #121218;
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5 {
+    color: #93b4f4;
+}
+
+html[data-theme="dark"] a {
+    color: #7eb8ff;
+}
+
+html[data-theme="dark"] a:hover {
+    color: #ffb088;
+}
+
+html[data-theme="dark"] header.site-header,
+html[data-theme="dark"] header {
+    background-color: #1a1a24;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
+    border-bottom: 1px solid #2d2d3a;
+}
+
+html[data-theme="dark"] .logo-text {
+    color: #93b4f4;
+}
+
+html[data-theme="dark"] nav a,
+html[data-theme="dark"] .site-nav a {
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] nav a:hover,
+html[data-theme="dark"] nav a.active,
+html[data-theme="dark"] .site-nav a:hover,
+html[data-theme="dark"] .site-nav a.active {
+    color: #4ecdc4;
+}
+
+html[data-theme="dark"] .login-btn {
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .login-btn:hover {
+    color: #7eb8ff;
+    background-color: #2d2d3a;
+}
+
+html[data-theme="dark"] .user-toggle {
+    border-color: #3f3f50;
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .user-toggle:hover {
+    background-color: #2d2d3a;
+    border-color: #5a7fc4;
+}
+
+html[data-theme="dark"] .user-menu {
+    background: #252530;
+    border: 1px solid #3f3f50;
+}
+
+html[data-theme="dark"] .user-menu-item {
+    color: #e4e4e7;
+    border-bottom-color: #3f3f50;
+}
+
+html[data-theme="dark"] .user-menu-item:hover {
+    background-color: #2d2d3a;
+    color: #7eb8ff;
+}
+
+html[data-theme="dark"] footer {
+    background-color: #16161d;
+    color: #c4c4cc;
+}
+
+html[data-theme="dark"] .footer-about p,
+html[data-theme="dark"] .footer-contact p {
+    color: #a1a1aa;
+}
+
+html[data-theme="dark"] .footer-links a {
+    color: #b8c9f0;
+}
+
+html[data-theme="dark"] .groupe1-cookie-banner {
+    background: rgba(10, 12, 18, 0.97);
+    color: #e4e4e7;
+    border-top: 1px solid #2d2d3a;
+}
+
+html[data-theme="dark"] .groupe1-cookie-banner p {
+    color: #d4d4d8;
+}
+
+@media (max-width: 768px) {
+    html[data-theme="dark"] nav ul,
+    html[data-theme="dark"] .site-nav ul {
+        background-color: #1a1a24;
+        border: 1px solid #2d2d3a;
+    }
+}
+
+/* Page d’accueil — sections (surcharge des fonds clairs) */
+html[data-theme="dark"] .hero-section {
+    background-color: #0d1117;
+    background-image: linear-gradient(135deg, rgba(30, 58, 120, 0.65) 0%, rgba(10, 20, 45, 0.85) 100%),
+        url('https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1920&q=80');
+}
+
+html[data-theme="dark"] .formations-section {
+    background-color: #16161d;
+    background-image: linear-gradient(180deg, rgba(22, 22, 29, 0.92) 0%, rgba(18, 18, 24, 0.9) 100%),
+        url('https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1920&q=80');
+}
+
+html[data-theme="dark"] .formations-section .section-header h2,
+html[data-theme="dark"] .formations-section .section-header p {
+    color: #e4e4e7;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+html[data-theme="dark"] .formation-card {
+    background: #252530;
+    border: 1px solid #3f3f50;
+}
+
+html[data-theme="dark"] .formation-content h3,
+html[data-theme="dark"] .formation-content p,
+html[data-theme="dark"] .formation-features li {
+    color: #d4d4d8;
+}
+
+html[data-theme="dark"] .about-section {
+    background: linear-gradient(180deg, #1a1a24 0%, #16161d 100%) !important;
+}
+
+html[data-theme="dark"] .about-content h2,
+html[data-theme="dark"] .about-content p,
+html[data-theme="dark"] .about-feature h4,
+html[data-theme="dark"] .about-feature p {
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .evenements-section {
+    background: #121218;
+}
+
+html[data-theme="dark"] .evenements-section .section-header h2 {
+    color: #93b4f4;
+}
+
+html[data-theme="dark"] .evenements-section .section-header p {
+    color: #a1a1aa;
+}
+
+html[data-theme="dark"] .event-card {
+    background: #252530;
+    border-color: #3f3f50;
+}
+
+html[data-theme="dark"] .event-card-body h3 {
+    color: #f4f4f5;
+}
+
+html[data-theme="dark"] .event-card-body p,
+html[data-theme="dark"] .event-campus {
+    color: #a1a1aa;
+}
+
+html[data-theme="dark"] .event-register-panel {
+    background: #1e1e28;
+    border-color: #3f3f50;
+}
+
+html[data-theme="dark"] .event-register-panel h3 {
+    color: #93b4f4;
+}
+
+html[data-theme="dark"] .event-register-form label {
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .event-register-form input,
+html[data-theme="dark"] .event-register-form select {
+    background: #252530;
+    border-color: #3f3f50;
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .stats-section {
+    background: linear-gradient(135deg, #243a6e 0%, #1a2744 100%);
+}
+
+html[data-theme="dark"] .testimonials-section {
+    background: #16161d;
+}
+
+html[data-theme="dark"] .testimonial-card {
+    background: #252530;
+    border: 1px solid #3f3f50;
+}
+
+html[data-theme="dark"] .testimonial-text,
+html[data-theme="dark"] .testimonial-formation {
+    color: #a1a1aa;
+}
+
+html[data-theme="dark"] .reference-section {
+    background: #121218;
+}
+
+html[data-theme="dark"] .reference-card {
+    background: #252530;
+    border-color: #3f3f50;
+}
+
+html[data-theme="dark"] .reference-card h3 {
+    color: #93b4f4;
+}
+
+html[data-theme="dark"] .reference-card p {
+    color: #a1a1aa;
+}
+
+html[data-theme="dark"] .team-preview-section {
+    background: #16161d !important;
+}
+
+html[data-theme="dark"] .team-preview-card strong {
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .cta-section {
+    background: linear-gradient(135deg, #2a2a32 0%, #1a1a22 100%);
+}
+
+html[data-theme="dark"] .theme-btn {
+    background: #2d2d3a;
+    color: #e4e4e7;
+    border-color: #3f3f50;
+}
+
+html[data-theme="dark"] .theme-btn[aria-pressed="true"] {
+    background: #3d5a9e;
+    border-color: #5a7fc4;
+    color: #fff;
+}
+
+html[data-theme="dark"] .lang-btn {
+    background: #2d2d3a;
+    color: #e4e4e7;
+    border-color: #3f3f50;
+}
+
+html[data-theme="dark"] .lang-btn[aria-pressed="true"] {
+    background: #2c5aa0;
+    color: #fff;
+    border-color: #4a7bc8;
+}
+
+/* Page connexion */
+html[data-theme="dark"] .login-page {
+    background: linear-gradient(135deg, rgba(30, 50, 90, 0.88) 0%, rgba(15, 20, 35, 0.92) 100%),
+        url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1920&q=80') center/cover;
+}
+
+html[data-theme="dark"] .login-card {
+    background: #252530;
+    color: #e4e4e7;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+html[data-theme="dark"] .login-card h1 {
+    color: #93b4f4;
+}
+
+html[data-theme="dark"] .login-card .subtitle,
+html[data-theme="dark"] .login-advantages li {
+    color: #a1a1aa;
+}
+
+html[data-theme="dark"] .login-form label {
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .login-form input {
+    background: #1e1e28;
+    border-color: #3f3f50;
+    color: #e4e4e7;
+}
+
+html[data-theme="dark"] .login-links a,
+html[data-theme="dark"] .back-home {
+    color: #7eb8ff;
+}

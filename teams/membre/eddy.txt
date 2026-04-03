@@ -1,0 +1,83 @@
+EDDY ETAME ETAME
+
+ÉTUDIANT EN BACHELOR 2 DÉVELOPPEMENT WEB & IA
+
+Jeune développeur motivé, passionné par le code, l'intelligence artificielle et l'automatisation. Rigoureux, autonome et curieux, je réalise des projets concrets en Python, JavaScript et Node.js. Prêt à contribuer sur des applications web modernes, bots intelligents et solutions data-driven.
+
+CONTACT
+eddy.etame@gmail.com
++33 7 55 12 34 56
+19 rue des Technologies, 31000 Toulouse
+LinkedIn : linkedin.com/in/eddy-etame
+GitHub : github.com/eddy-etame-dev
+
+PHOTO (imaginez ici une photo professionnelle souriante)
+
+LANGUES
+Français : Maternelle (courant)
+Anglais : B1 (intermédiaire technique)
+
+COMPÉTENCES
+# LANGAGES DE PROGRAMMATION
+• Python (avancé : data, automatisation, scripts IA)
+• JavaScript / TypeScript
+• C / C++
+• PHP
+• HTML5 / CSS3 (Bootstrap, Tailwind)
+• Java (bases)
+
+# DÉVELOPPEMENT WEB & BACKEND
+Front-end : React (bases), HTML, CSS, responsive design
+Back-end : Node.js, Express, PHP
+Bases de données : MySQL, MongoDB, PostgreSQL, SQLite
+Outils : Git / GitHub, Docker (initiation), VS Code, Laragon
+
+# IA & AUTOMATISATION
+Prompt engineering, intégration API IA (OpenAI, Hugging Face)
+Bots WhatsApp / Telegram (Node.js)
+Automatisation tâches (Python + Selenium, VBA)
+Frameworks : Pandas, NumPy (bases data)
+
+# SOFT SKILLS
+Autonome • Résolution de problèmes • Travail en équipe • Adaptable • Curieux • Gestion du temps
+
+CENTRES D'INTÉRÊT
+Programmation & IA • Jeux vidéo • Football • Musique afrobeat • Nouvelles technologies • Lecture tech (blogs dev & IA)
+
+EXPÉRIENCES PROFESSIONNELLES
+Assistant Développeur – Projet Personnel & Freelance | Décembre 2024 – Présent
+• Création et maintenance de bots d'automatisation WhatsApp (Node.js) pour gestion clients locaux
+• Développement d'un dashboard web simple (React + Node.js) pour suivi tâches
+• Intégration API IA pour génération contenu automatique
+
+Stagiaire Développeur Web – Agence Digitale Locale, Douala | Juillet – Août 2025
+• Participation au développement de sites vitrines (HTML/CSS/JS + WordPress)
+• Création formulaires dynamiques et gestion base de données MySQL
+• Tests responsives et optimisation performances
+
+Projets Universitaires – Keyce Informatique | 2025
+• Chef d'équipe sur application de gestion d'événements (Python + Flask + SQLite)
+• Développement site e-commerce fictif (HTML, CSS, JavaScript, PHP)
+
+FORMATIONS & CERTIFICATIONS
+Bachelor 2 Informatique – Développement Web & IA
+Keyce Informatique, Toulouse | 2025-2026 (en cours)
+
+Bachelor 1 Informatique
+Keyce Informatique, Douala | 2024-2025
+
+Baccalauréat Scientifique (option Informatique)
+Lycée Technique, Douala | 2023-2024
+
+Certifications
+• Python for Everybody – Coursera (2024)
+• Bases du Développement Web – OpenClassrooms (2024)
+• Prompt Engineering for Developers – DeepLearning.AI (2025)
+
+PROJETS PERSONNELS (liens GitHub)
+• Bot IA WhatsApp multifonctions → github.com/eddy-etame-dev/whatsapp-bot
+• Portfolio personnel responsive → eddy-etame-portfolio.vercel.app
+• Script Python d'analyse données CSV + visualisation → github.com/eddy-etame-dev/data-viz
+• Mini-jeu web JavaScript pour enfants
+
+Disponible pour stage, alternance ou projets freelance.

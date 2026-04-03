@@ -1,0 +1,51 @@
+BRAD Bruel MBOSSEU
+
+Étudiant en développement web
+2 rue Jean Viollis – Toulouse
+mbosseubradbruel@gmail.com
++33 7 44 97 77 66
+
+LANGUES
+Français
+Anglais
+
+ATOUTS
+Adaptation rapide aux nouveaux outils et technologies
+Esprit créatif, autonome et orienté solutions
+
+CENTRES D'INTÉRÊT
+Football, Vélo, Natation
+Voyages : Italie, Espagne, Angleterre
+
+EXPÉRIENCES PROFESSIONNELLES
+Projets techniques (développement web)
+Août 2022 - Septembre 2022 – Complexe industriel du littoral, Douala
+• Création de sites web pour établissements scolaires et entreprises
+• Conception d'interfaces responsives
+• Mini-applications web (gestion & formulaires dynamiques)
+• Travail collaboratif via GitHub
+
+Stagiaire – Service Courrier
+Août 2023 - Septembre 2023 – BEAC Douala, Douala
+• Réception, tri et classement du courrier
+• Distribution dans les différents services
+• Orientation des visiteurs
+• Préparation et organisation des salles de réunion
+
+COMPÉTENCES
+Conception d'interfaces modernes et responsives en HTML, CSS et JavaScript
+Développement Back-end : PHP, Node.js, MySQL
+Outils : Docker, Git/GitHub, Ubuntu
+
+DIPLÔMES ET FORMATIONS
+B2 – Développement Web
+Keyce Informatique – Toulouse | 2025-2026
+
+B1 – Développement Web
+Keyce Informatique – Douala | 2024-2025
+
+Cours d'anglais
+Centre Linguistique – Douala | 2023-2024
+
+Baccalauréat D
+De La Salle – Douala | 2022-2023
